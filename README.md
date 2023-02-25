@@ -1,4 +1,4 @@
-### Hi there, I am Shahadath Hussain Rifat 👋
+## Hi there, I am Shahadath Hussain Rifat 👋
 
 ## I'm a software developer student based in Winnipeg, Manitoba.
 
