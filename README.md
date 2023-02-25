@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/124025788/221347996-b2d8d178-a68e-4d96-96bf-59b4b4a7901d.png)
+<img src = https://user-images.githubusercontent.com/124025788/221348268-70b3482b-845f-459a-8ccb-ac4abafa09c3.png width=530px height=330px align=right>
 
 
 ## Hi there, I am Shahadath Hussain Rifat 👋
@@ -9,20 +9,18 @@
 - 🔭 I’m currently studying at Manitoba Institue of Trade and Technology in the software developer course.
 - 💬 Ask me about HTML, CSS and JavaScript.
 - 🌱 I’m currently learning C#, REACT.
-- 🤔 I’m looking for help with design.
+- 🤔 I’m looking for help with design😊.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can Speak four languages: English, Bangla, Hindi and Urdu.
 
- Feel free to Contact me 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]  **|**
-📧 [Email] [Email] **|**
+ Feel free to Contact me: 
+🐦 [Twitter] **|** 
+📷 [Instagram] **|** 
+👔 [Linkedin] **|**
+📥 [Facebook] **|**
 
 
-
-
-[twitter]: https://twitter.com/RifatShahadath
+[Twitter]: https://twitter.com/RifatShahadath
 [instagram]: https://www.instagram.com/rifat.sh_27
 [linkedin]: https://www.linkedin.com/in/shahadath-hussain-rifat-ab1566267
-[Email]: rifatsh27@gmail.com
+[Facebook]: https://www.facebook.com/profile.php?id=100008832661437
