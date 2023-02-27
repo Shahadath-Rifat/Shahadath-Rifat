@@ -24,3 +24,25 @@
 [instagram]: https://www.instagram.com/rifat.sh_27
 [linkedin]: https://www.linkedin.com/in/shahadath-hussain-rifat-ab1566267
 [Facebook]: https://www.facebook.com/profile.php?id=100008832661437
+
+##
+
+### My skills
+
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-c-informational?style=for-the-badge&logo=c&logoColor=white&color=51be8d)
+
+##
+
+### My stats
+
+<a href="https://github.com/Shahadath-Rifat">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Shahadath-Rifat&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/Shahadath-Rifat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadath-Rifat&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
