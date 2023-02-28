@@ -10,7 +10,7 @@
 - 💬 Ask me about HTML, CSS and JavaScript.
 - 🌱 I’m currently learning C#, REACT.
 - 🤔 I’m looking for help with design😊.
-- 😄 Hobbies: Playing Games and watching Movies
+- 😄 Hobbies: Playing Games and watching Movies.
 - ⚡ Fun fact: I can Speak four languages: English, Bangla, Hindi and Urdu.
 
  Feel free to Contact me: 
