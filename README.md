@@ -24,16 +24,21 @@
 [instagram]: https://www.instagram.com/rifat.sh_27
 [linkedin]: https://www.linkedin.com/in/shahadath-hussain-rifat-ab1566267
 [Facebook]: https://www.facebook.com/profile.php?id=100008832661437
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahadath-Rifat&label=Profile%20views&color=0e79b6&style=bold" alt="Shahadath-Rifat"  />  </p>
 
 ##
 
-### My skills
+### My skills and Currently learning ...
 
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-c-informational?style=for-the-badge&logo=c&logoColor=white&color=51be8d)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ##
 
