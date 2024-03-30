@@ -6,9 +6,9 @@
 ## I'm a software developer student based in Winnipeg, Manitoba.
 
 
-- 🔭 I’m currently studying at Manitoba Institue of Trade and Technology in the software developer course.
-- 💬 Ask me about HTML, CSS and JavaScript.
-- 🌱 I’m currently learning C#, REACT.
+- 🔭 I’m a Recent Graduate from Manitoba Institue of Trade and Technology in the software developer course.
+- 💬 Ask me about HTML, CSS, and JavaScript.
+- 🌱 I’m currently Honing my Full-Stack Developer Skills.
 - 🤔 I’m looking for help with design😊.
 - 😄 Hobbies: Playing Games and watching Movies.
 - ⚡ Fun fact: I can Speak four languages: English, Bangla, Hindi and Urdu.
